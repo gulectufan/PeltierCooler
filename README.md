@@ -1,5 +1,7 @@
 # PeltierCooler App
 
+Watch how efficient the peltier cooler works. https://youtu.be/ESmp3wRcOD8
+
 ## Arduino
 Arduino code is in SensorProject.ardunio folder.
 
